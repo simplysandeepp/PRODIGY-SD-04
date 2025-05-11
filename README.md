@@ -1,6 +1,6 @@
-# PRODIGY_SD_03
+# PRODIGY_SD_04
 
-## 🎯 Sudoku Solver – Task 03
+## 🎯 Sudoku Solver – Task 04
 
 ### 👨‍💻 Internship Project by Your Name
 
@@ -13,7 +13,7 @@
 This project is a fully functional and optimized Sudoku Solver developed using Python.  
 It allows users to input a 9×9 Sudoku puzzle with empty cells represented by 0, and then automatically solves it using a constraint-aware backtracking algorithm.  
 
-The solution is printed clearly in the console using a readable 3×3 grid format.
+The solution is printed clearly in the console using a readable 9x9 grid format.
 
 ---
 
@@ -39,4 +39,4 @@ The solution is printed clearly in the console using a readable 3×3 grid format
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PRODIGY-SD-03.git
+   git clone https://github.com/your-username/PRODIGY-SD-04.git
