@@ -2,7 +2,7 @@
 
 ## 🎯 Sudoku Solver – Task 04
 
-### 👨‍💻 Internship Project by Your Name
+### 👨‍💻 Internship Project by Sandeep Prajapati
 
 ### 🏢 Company: PRODIGY INFOTECH
 
@@ -40,3 +40,6 @@ The solution is printed clearly in the console using a readable 9x9 grid format.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/PRODIGY-SD-04.git
+2. Open the project in your Favorite python Ide.
+3. Compile and run the main.py file.
+4. Start Solving Problems.
